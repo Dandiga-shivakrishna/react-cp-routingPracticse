@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.contact-img {
+  height: 200px;
+  width: 200px;
+}
+
+.contact-heading {
+  color: #6d396b;
+}

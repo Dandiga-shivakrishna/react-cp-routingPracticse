@@ -1,0 +1,17 @@
+.blog-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-style {
+  display: flex;
+  flex-direction: row;
+}
+.img-style {
+  height: 50px;
+  width: 50px;
+}
+.nav-link {
+  padding-left: 10px;
+}
